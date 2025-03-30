@@ -1,23 +1,10 @@
 ## Hi there 👋
+# 💫 About Me:
+<br><br>🛠️ I’m currently working on:<br>	•	Building my GitHub portfolio with data case studies (business + SQL + ML)<br>	•	Landing my first data analysis role<br><br>🤝 I’m looking to collaborate on:<br>	•	Real-world data projects<br>	•	Tutorials for junior data learners<br><br>🌱 I’m currently learning:<br>	•	Tableau dashboard building<br>	•	Advanced SQL (window functions, CTEs)<br>	•	Scikit-learn pipelines and model evaluation<br>	•	Business storytelling with data<br><br>💬 Ask me about:<br>	•	Translating messy data into business insights<br>	•	How to spot what others don’t (anomalies, patterns, inefficiencies)<br>	•	How economics & statistics show up in real life<br>	•	Staying motivated while learning solo<br><br>⚡ Fun fact:<br>I’m American-Yemenite—deeply connected to both cultures. Think: Middle Eastern warmth and zest for life meets American hustle and professionalism.
 
-🛠️ I’m currently working on:
-• Building my GitHub portfolio with data case studies (business + SQL + ML)
-• Landing my first data analysis role
 
-🤝 I’m looking to collaborate on:
-• Real-world data projects
-• Tutorials for junior data learners
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-🌱 I’m currently learning:
-• Tableau dashboard building
-• Advanced SQL (window functions, CTEs)
-• Scikit-learn pipelines and model evaluation
-• Business storytelling with data
-
-💬 Ask me about:
-• Translating messy data into business insights
-• How to spot what others don’t (anomalies, patterns, inefficiencies)
-• How economics & statistics show up in real life
-• Staying motivated while learning solo
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
