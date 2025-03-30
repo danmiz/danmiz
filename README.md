@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**danmiz/danmiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ I’m currently working on:
+• Building my GitHub portfolio with data case studies (business + SQL + ML)
+• Landing my first data analysis role
 
-Here are some ideas to get you started:
+🤝 I’m looking to collaborate on:
+• Real-world data projects
+• Tutorials for junior data learners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+• Tableau dashboard building
+• Advanced SQL (window functions, CTEs)
+• Scikit-learn pipelines and model evaluation
+• Business storytelling with data
+
+💬 Ask me about:
+• Translating messy data into business insights
+• How to spot what others don’t (anomalies, patterns, inefficiencies)
+• How economics & statistics show up in real life
+• Staying motivated while learning solo
+
+
